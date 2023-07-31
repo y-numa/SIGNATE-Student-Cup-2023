@@ -1,0 +1,83 @@
+2023-07-28 13:30:48.392 [info] 
+
+
+
+
+2023-07-28 13:30:48.393 [info] Extension host agent started.
+2023-07-28 13:30:48.408 [debug] No uninstalled extensions found.
+2023-07-28 13:30:48.432 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-07-28 13:30:48.455 [debug] ComputeTargetPlatform: linux-x64
+2023-07-28 13:30:48.462 [info] [127.0.0.1][f12a399a][ManagementConnection] New connection established.
+2023-07-28 13:30:48.470 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-07-28 13:30:48.495 [info] Log level changed to info
+2023-07-28 13:30:48.535 [info] Installing extensions...
+2023-07-28 13:30:48.780 [info] [127.0.0.1][f700939e][ExtensionHostConnection] New connection established.
+2023-07-28 13:30:48.791 [info] [127.0.0.1][f700939e][ExtensionHostConnection] <225> Launched Extension Host Process.
+2023-07-28 13:30:49.103 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-07-28 13:30:49.323 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:30:49.365 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:34:41.469 [info] [127.0.0.1][f12a399a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-28 13:34:44.268 [info] [127.0.0.1][cb0e6f24][ManagementConnection] New connection established.
+2023-07-28 13:34:44.287 [info] Installing extensions...
+2023-07-28 13:34:44.712 [info] [127.0.0.1][7e8cdbcf][ExtensionHostConnection] New connection established.
+2023-07-28 13:34:44.722 [info] [127.0.0.1][7e8cdbcf][ExtensionHostConnection] <2007> Launched Extension Host Process.
+2023-07-28 13:34:44.740 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-07-28 13:34:44.961 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:34:45.002 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:37:43.289 [info] Downloaded extension to file:///root/.vscode-server/extensionsCache/c456b845-c60a-40a8-bded-fdfa1d31a266
+2023-07-28 13:37:43.308 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-07-28 13:37:43.478 [info] Extracted extension to /root/.vscode-server/extensions/.f61a613b-dedd-42d9-9a21-d09fae5ec109: ms-toolsai.vscode-jupyter-slideshow
+2023-07-28 13:37:43.481 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-07-28 13:37:43.483 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-07-28 13:37:43.493 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-07-28 13:37:55.915 [info] [127.0.0.1][cb0e6f24][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-28 13:37:58.700 [info] [127.0.0.1][8b6b94f8][ManagementConnection] New connection established.
+2023-07-28 13:37:58.721 [info] Installing extensions...
+2023-07-28 13:37:59.235 [info] [127.0.0.1][018487f6][ExtensionHostConnection] New connection established.
+2023-07-28 13:37:59.274 [info] [127.0.0.1][018487f6][ExtensionHostConnection] <3765> Launched Extension Host Process.
+2023-07-28 13:37:59.435 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-07-28 13:37:59.709 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:37:59.755 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:38:07.558 [info] Downloaded extension to file:///root/.vscode-server/extensionsCache/4f741cbe-293a-436f-a9a1-506dbf387e4f
+2023-07-28 13:38:07.566 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-07-28 13:38:07.682 [info] Extracted extension to /root/.vscode-server/extensions/.fade9835-a73c-409f-aaa9-a0a7bd2b679d: ms-toolsai.vscode-jupyter-cell-tags
+2023-07-28 13:38:07.684 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-07-28 13:38:07.686 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-07-28 13:38:07.696 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-07-28 13:38:08.036 [info] [127.0.0.1][8b6b94f8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-28 13:38:11.009 [info] [127.0.0.1][dac8e77f][ManagementConnection] New connection established.
+2023-07-28 13:38:11.023 [info] Installing extensions...
+2023-07-28 13:38:11.565 [info] [127.0.0.1][8086d72f][ExtensionHostConnection] New connection established.
+2023-07-28 13:38:11.580 [info] [127.0.0.1][8086d72f][ExtensionHostConnection] <4250> Launched Extension Host Process.
+2023-07-28 13:38:11.705 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-07-28 13:38:11.929 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:38:11.974 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-07-28 13:38:22.355 [info] Getting Manifest... ms-toolsai.jupyter
+2023-07-28 13:38:22.412 [info] Installing extension: ms-toolsai.jupyter
+2023-07-28 13:38:22.657 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-07-28 13:38:22.685 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-07-28 13:38:22.715 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-07-28 13:38:22.752 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-07-28 13:38:22.822 [info] Installing extension: ms-toolsai.jupyter-keymap ms-toolsai.jupyter
+2023-07-28 13:38:22.823 [info] Installing extension: ms-toolsai.jupyter-renderers ms-toolsai.jupyter
+2023-07-28 13:38:29.892 [info] Downloaded extension to file:///root/.vscode-server/extensionsCache/3a6d3700-6319-4c86-998d-71b91cf274b8
+2023-07-28 13:38:29.914 [info] Installing extension: grapecity.gc-excelviewer
+2023-07-28 13:38:30.326 [info] Extracted extension to /root/.vscode-server/extensions/.e94c5559-b98c-4ada-8fa8-e1ba0f7a2c8e: grapecity.gc-excelviewer
+2023-07-28 13:38:30.335 [info] Renamed to /root/.vscode-server/extensions/grapecity.gc-excelviewer-4.2.57
+2023-07-28 13:38:30.342 [info] Extracting extension completed. grapecity.gc-excelviewer
+2023-07-28 13:38:30.382 [info] Extension installed successfully: grapecity.gc-excelviewer
+2023-07-28 13:38:53.107 [info] Downloaded extension to file:///root/.vscode-server/extensionsCache/9e7e48c9-77b4-4f91-858d-3c248c14a71c
+2023-07-28 13:38:53.219 [info] Installing extension: ms-python.python
+2023-07-28 13:38:54.988 [info] Downloaded extension to file:///root/.vscode-server/extensionsCache/51ed0a8c-0a04-47b4-85a3-edb5a6b62b9b
+2023-07-28 13:38:55.846 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-28 13:38:55.979 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-07-28 13:38:56.211 [info] Installing extension: ms-python.vscode-pylance
+2023-07-28 13:38:56.788 [info] Getting Manifest... ms-python.python
+2023-07-28 13:38:57.039 [info] Installing extension: ms-python.python ms-python.vscode-pylance
+2023-07-28 13:39:05.080 [info] Extracted extension to /root/.vscode-server/extensions/.44085136-b225-43ba-a75b-4bf97a09dd62: ms-python.python
+2023-07-28 13:39:05.110 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2023.12.0
+2023-07-28 13:39:05.139 [info] Extracting extension completed. ms-python.python
+2023-07-28 13:39:45.208 [info] [127.0.0.1][f700939e][ExtensionHostConnection] <225> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 13:42:59.302 [info] [127.0.0.1][7e8cdbcf][ExtensionHostConnection] <2007> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 13:43:11.548 [info] [127.0.0.1][018487f6][ExtensionHostConnection] <3765> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 14:15:04.836 [info] [127.0.0.1][dac8e77f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
